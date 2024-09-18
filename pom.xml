@@ -63,7 +63,7 @@
     <dependency>
       <groupId>org.webjars.npm</groupId>
       <artifactId>hotwired__turbo</artifactId>
-      <version>7.1.0</version>
+      <version>8.0.10</version>
     </dependency>
     <dependency>
       <groupId>org.webjars.npm</groupId>
